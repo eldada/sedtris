@@ -1,4 +1,4 @@
-# Sedtris
+# Sedtris (Tetris with sed)
 
 A fully functional Tetris clone written almost entirely in **sed** — the Unix stream editor. A small bash wrapper handles keyboard input and timing, while all game logic (piece spawning, rotation, movement, line clearing, scoring, and rendering) lives in a single sed script.
 
